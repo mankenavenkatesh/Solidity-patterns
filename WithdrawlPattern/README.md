@@ -1,6 +1,6 @@
 # Withdrawal from Contracts
 
-Problem Statement - 
+## Problem Statement - 
 Let's take the example contract where the goal is to send the most money to the contract in order to become the “richest”. To become richest, you have to send more money than the money sent by previous richest person.
 
 Most intuitive way of smart contract is
